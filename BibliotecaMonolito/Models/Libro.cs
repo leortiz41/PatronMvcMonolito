@@ -1,4 +1,4 @@
-namespace bibliotecaMonolito.Models
+namespace BibliotecaMonolito.Models
 {
     public class Libro
     {
